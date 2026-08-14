@@ -1,0 +1,13 @@
+qrcode[pil]
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+reportlab
+openpyxl
+google-generativeai
+python-dotenv
+arabic-reshaper
+python-bidi
+bcrypt
